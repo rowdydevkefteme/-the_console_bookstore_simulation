@@ -8,11 +8,19 @@ Contact Email: support.someemail@gmail.com
 
 
 1 - Clone the repo with: 
+
+
 `git clone https://github.com/rowdydevkefteme/-the_console_bookstore_simulation`
 2- Download the CMake from the official website for your platform
+
+
 3 - Enter the directory with cloned repo
+
+
 `cd -the_console_bookstore_simulation/bookstore`
 4 - Create a build direcotry and enter it
+
+
 `mkdir build && cd build`
 5 - Run the CMake
 `cmake ..`
