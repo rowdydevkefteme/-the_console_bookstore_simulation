@@ -11,6 +11,8 @@ Contact Email: support.someemail@gmail.com
 
 
 `git clone https://github.com/rowdydevkefteme/-the_console_bookstore_simulation`
+
+
 2- Download the CMake from the official website for your platform
 
 
@@ -42,4 +44,11 @@ For example, if CMake generated a Makefile, just run:
 
 
 If it generated .sln file - just open it using Visual Studio and run: Build->Build Solution
+
+
+##How to Download the binary
+
+Go to: https://github.com/rowdydevkefteme/-the_console_bookstore_simulation/releases
+
+And download zip-file for your platform
 
